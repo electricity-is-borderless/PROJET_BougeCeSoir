@@ -1,0 +1,10 @@
+Licence utilisée pour le projet BougeCeSoir : CeCILL
+
+Titulaire des droits sur ce logiciel : Nans MARCHAISON
+
+Toutes les librairies logiciels que nous utilisons doivent être compatibles avec la licence "GNU GPL"
+
+Quand on voudra créer des comptes, les utilisateurs devront signer une charte d'accord avec la licence CeCILL utilisée
+
+A chaque nouveau fichier que l'on crée il faut mettre en en-tête :
+	-"Ce fichier est sous licence CeCILL. Il concerne le projet BougeCeSoir (création en 2014) dont le titulaire des droits patrimoniaux se nomme Nans MARCHAISON."
